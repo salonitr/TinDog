@@ -1,0 +1,59 @@
+.d{
+    rotate: 25deg !important;
+    
+}
+.n{
+    padding-right: 100px;
+}
+
+.a{
+    background-color: indianred !important;
+}
+h1
+{
+    font-family: "Poppins", sans-serif;
+    line-height: 1.5;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+}
+h3{
+    font-family: "Poppins", sans-serif;
+    color: #1f1f1f;
+    font-weight: bolder;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1.5;
+    color: #1f1f1f;
+    margin-bottom: 0.5rem;
+}
+img{
+    display: flex;
+    justify-content: center;
+}
+.s{
+    display: flex;
+    justify-content: center;
+}
+.p{
+    padding: 120px !important;
+}
+.m{
+    padding: 100px;
+    
+
+}
+
+.j{
+    color: indianred;
+    font-size: 50px;
+}
+.pi{
+    padding: 120px;
+}
